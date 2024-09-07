@@ -13,12 +13,11 @@ Back-end part is stored in https://github.com/fpmi-hci-2024/project13b-backend-f
 
 ## Front-end
 
-Front-end part is stored in git@github.com:fpmi-hci-2024/project13b-web-fluffy-kittens.git
+Front-end part is stored in https://github.com/fpmi-hci-2024/project13b-web-fluffy-kittens
 
 ## Mobile
 
-Mobile part is stored in git@github.com:fpmi-hci-2024/project13b-mobile-fluffy-kittens.git
-
+Mobile part is stored in https://github.com/fpmi-hci-2024/project13b-mobile-fluffy-kittens
 # Usage
 
 # Contributing
